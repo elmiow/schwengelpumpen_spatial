@@ -1,0 +1,7 @@
+pandas
+geopandas
+shapely
+gspread
+gspread_dataframe
+google-auth
+google-auth-oauthlib
